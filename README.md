@@ -1,1 +1,1 @@
-공공 데이터 활용 온도 추정 AI 경진대회
+https://dacon.io/competitions/official/235584/overview/
